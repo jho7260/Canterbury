@@ -1,0 +1,5 @@
+#main img {
+    width: 100%;    /* Sets the image width to 100% of its container */
+    max-width: 2560px; /* Maximum width to fit the MacBook Air M2 13-inch screen */
+    height: auto;   /* Maintains the aspect ratio of the image */
+}
